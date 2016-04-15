@@ -1,0 +1,6 @@
+F:\work_save\GiftCreator\GiftCreator\bin\Debug\GiftCreator.exe.config
+F:\work_save\GiftCreator\GiftCreator\bin\Debug\GiftCreator.exe
+F:\work_save\GiftCreator\GiftCreator\bin\Debug\GiftCreator.pdb
+F:\work_save\GiftCreator\GiftCreator\obj\Debug\GiftCreator.csprojResolveAssemblyReference.cache
+F:\work_save\GiftCreator\GiftCreator\obj\Debug\GiftCreator.exe
+F:\work_save\GiftCreator\GiftCreator\obj\Debug\GiftCreator.pdb
